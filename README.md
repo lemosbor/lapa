@@ -1,4 +1,4 @@
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/lemosbor/lapa/blob/main/README.ru.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/lemosbor/lapa/blob/main/README.ru.md)
 <p align="center">
   <img src="https://raw.githubusercontent.com/lemosbor/lapa/main/img/logo.png">
 </p>
