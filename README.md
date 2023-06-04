@@ -1,4 +1,3 @@
-![Lapa Keyboard Logo](img/logo.png)
 <p align="center">
   <img src="https://raw.githubusercontent.com/lemosbor/lapa/main/img/logo.png">
 </p>
