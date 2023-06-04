@@ -1,3 +1,4 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/lemosbor/lapa/README.md)
 <p align="center">
   <img src="https://raw.githubusercontent.com/lemosbor/lapa/main/img/logo.png">
 </p>
