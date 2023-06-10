@@ -44,3 +44,5 @@ The A/P-key is used to switch the alphabet.
 ![8](img/08.jpg)
 
 ![7](img/07.jpg)
+
+[![in action](https://img.youtube.com/vi/yNzKU2yAgHQ/0.jpg)](https://www.youtube.com/watch?v=yNzKU2yAgHQ)
