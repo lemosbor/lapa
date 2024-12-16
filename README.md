@@ -4,9 +4,9 @@
 </p>
 Lapa (Russian: Лапа, paw) - split keyboard-mouse with 36 keys (40%)  for typing without moving the hands.
 
-![0](img/v23_1.JPG)
+![0](img/v24_1.JPG)
 
-![2](img/v23_2.JPG)
+![2](img/v24_2.JPG)
 
 ## Features
 1. The wrist-rest is part of the keyboard and is located above the main row keys.
@@ -17,7 +17,7 @@ Lapa (Russian: Лапа, paw) - split keyboard-mouse with 36 keys (40%)  for typ
 6. The keycaps are flush with the body.
 7. Replaceable oak pad for resting the wrist.
 
-![1](img/v23_3.JPG)
+![1](img/v24_3.JPG)
 
 ## Layout
 
@@ -25,8 +25,8 @@ Especially for the keyboard, I developed russian layout that provides the maximu
 English alphabet is mapped with the Russian alphabet by phonetic: а - a, с - s, ш - sh, etc.
 The A/P-key is used to switch the alphabet.
 
-![0](img/v23_4.JPG)
-![3](img/v23_5.JPG)
+![0](img/v24_4.JPG)
+![3](img/v24_5.JPG)
 
 ## BOM
 1. Pro micro - 2
@@ -38,7 +38,7 @@ The A/P-key is used to switch the alphabet.
 7. Nut M2.5 - 4
 8. Bolt M4 80 mm with a conical head - 4
 
-![4](img/v23_6.JPG)
+![4](img/v24_6.JPG)
 
 
 ## Version history
