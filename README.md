@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/lemosbor/lapa/main/img/logo.png">
 </p>
-Lapa (Russian: Лапа, paw) - split keyboard-mouse with 36 keys (40%)  for typing without moving the hands.
+Lapa (Russian: Лапа, paw) - split keyboard-mouse with 36 keys (40%) and mouse sensor for typing without moving the hands.
 
 ![0](img/v24_s1.jpg)
 
