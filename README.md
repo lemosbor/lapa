@@ -12,7 +12,7 @@ Lapa (Russian: Лапа, paw) - split keyboard-mouse with 36 keys (40%) and mous
 1. The wrist-rest is part of the keyboard and is located above the main row keys.
 2. The built-in mouse sensor allows you not to transfer your hand from the keyboard to the mouse.
 3. The thumb keys are located on a separate part of the case, much higher than other keys.
-4. The keys of each finger are located on several circles of different diameters, forming a "stairs". This solution provides maximum perpendicularity of the keystroke vectors to the key surfaces.
+4. All key surfaces are on different planes determined by the most effective pressing vector.
 5. Minimum height. The surface of the lowest key is at a distance of 2 cm from the table.
 6. The keycaps are flush with the body.
 7. Replaceable oak pad for resting the wrist.
@@ -40,6 +40,8 @@ The A/P-key is used to switch the alphabet.
 
 ![4](img/v24_s6.jpg)
 
+## Differences from the [2023 version](v23.md)
+1. The weight has been reduced as much as possible (from 335 to 200 g for each half) for better handling.
+2. The position of the fingers (keys) is lowered as much as possible to reduce the load on the elbows.
+3. The shape and tilt of the body have been changed for a more comfortable hand position.
 
-## Version history
-[v23](v23.md)
