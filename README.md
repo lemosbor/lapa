@@ -22,7 +22,7 @@ Your hands should not adapt to the keyboard; the keyboard must adapts to your ha
 - solenoid under the left wrist. When switching layers (including automatic switching), the solenoid taps a certain number of times, so I know which layer I'm on. When (rarely) I typing English letters, the solenoid always taps slightly, so I don't confuse Russian letters with English ones.
 
 
-https://github.com/user-attachments/assets/0789943b-65f5-4b6d-8f2f-c9d544a59301
+https://github.com/user-attachments/assets/b1af6ffc-af0c-42e1-acf5-c68db2ef7b85
 
 
 ![1](img/v25_s3.jpg)
@@ -38,7 +38,8 @@ However, there was a problem with the gaps between the keys. The switches were v
 So, I designed the case so that the switches are mounted on the bottom instead of the top.
 I completely repeated the shape of the switch in the case, so that they are held only by friction without latches or glue.
 
-https://github.com/user-attachments/assets/f72d6f9e-822e-4e21-b76c-098d1167319c
+
+https://github.com/user-attachments/assets/f2050ea4-d87f-4df2-8be0-e7f55826e3db
 
 
 ![1](img/v25_s4.jpg)
