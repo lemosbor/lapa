@@ -1,6 +1,6 @@
 [![ru](https://img.shields.io/badge/lang-ru-yellowgreen.svg)](https://github.com/lemosbor/lapa/blob/main/README.ru.md)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lemosbor/lapa/main/img/logo25.png">
+  <img  width="600px" src="https://raw.githubusercontent.com/lemosbor/lapa/main/img/logo25.png">
 </p>
 Lapa (Russian: Лапа, paw) - split keyboard-mouse with 36 keys (40%) and mouse sensor for typing without moving the hands.
 
