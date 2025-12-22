@@ -15,7 +15,7 @@ Your hands should not adapt to the keyboard; the keyboard must adapts to your ha
 ![1](img/v25_s2.jpg)
 
 ## Features
-- left half is also the mouse. The most important function. I don't need to to move my hand to the mouse and fuss.
+- right half is also the mouse. The most important function. I don't need to to move my hand to the mouse and fuss.
 - thumbstick on the right side. I use it instead of the cursor keys, and it's very convenient. The thumbstick is shaped like a bur, so my thumb grips it easily and doesn't slip.
 - thumb toggle switch on the left side. I use it to switch the keyboard from the Russian alphabet to the English alphabet. The toggle switch's position is tactilely feels, so I don't need additional indicators to know which alphabet the keyboard is currently in.
 - thumbstick on the left side. I use it to switch between tabs and programs on PC.
