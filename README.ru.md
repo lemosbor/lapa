@@ -1,6 +1,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/lemosbor/lapa/blob/main/README.md)
 <p align="center">
-  <img width="50vw" src="https://raw.githubusercontent.com/lemosbor/lapa/main/img/logo25.png">
+  <img width="600px" src="https://raw.githubusercontent.com/lemosbor/lapa/main/img/logo25.png">
 </p>
 Лапа — раздельная клавиатура-мышь из 36 клавиш (40 % от стандартной клавиатуры) объемного расположения для 10-пальцевой «слепой» печати без передвижения рук.
 
@@ -74,6 +74,6 @@ https://github.com/user-attachments/assets/f2050ea4-d87f-4df2-8be0-e7f55826e3db
 
 ![1](img/v25_s9.jpg)
 
-## [2024 version](v24.md)
-## [2023 version](v23.md)
+## [Версия 2024 года](v24.md)
+## [Версия 2023 года](v23.md)
 
