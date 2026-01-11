@@ -19,11 +19,9 @@ Your hands should not adapt to the keyboard; the keyboard must adapts to your ha
 - thumbstick on the right side. I use it instead of the cursor keys, and it's very convenient. The thumbstick is shaped like a bur, so my thumb grips it easily and doesn't slip.
 - thumb toggle switch on the left side. I use it to switch the keyboard from the Russian alphabet to the English alphabet. The toggle switch's position is tactilely feels, so I don't need additional indicators to know which alphabet the keyboard is currently in.
 - thumbstick on the left side. I use it to switch between tabs and programs on PC.
-- solenoid under the left wrist. When switching layers (including automatic switching), the solenoid taps a certain number of times, so I know which layer I'm on. When (rarely) I typing English letters, the solenoid always taps slightly, so I don't confuse Russian letters with English ones.
-
+- solenoid under the left wrist for haptic feedback. When switching layers (including automatic switching), the solenoid taps a certain number of times, so I know which layer I'm on. When (rarely) I typing English letters, the solenoid always taps slightly, so I don't confuse Russian letters with English ones.
 
 https://github.com/user-attachments/assets/b1af6ffc-af0c-42e1-acf5-c68db2ef7b85
-
 
 ![1](img/v25_s3.jpg)
 
@@ -53,10 +51,10 @@ The right wrist rest is also lightened and is honeycombed perforated, improving 
 ![1](img/v25_s5.jpg)
 
 ## Layout
-
 Especially for the keyboard, I developed russian layout that provides the maximum frequency of trigrams with rolls and the minimum frequency same finger.
-English alphabet is mapped with the Russian alphabet by phonetic: а - a, с - s, ш - sh, etc.
-The A/P-key is used to switch the alphabet.
+Numbers are typed on home row while holding down the main thumb left key.
+English alphabet is mapped with the Russian alphabet by phonetic: А - A, С - S, Ш - Sh, etc.
+Russian letters Щ, Ё, and Ъ are typed using combos.
 
 ![1](img/v25_s6.jpg)
 
